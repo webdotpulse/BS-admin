@@ -1527,3 +1527,18 @@ footer.sticky-footer .copyright {
 body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
+
+.small-icon {
+  font-size: 0.875em;
+}
+
+.sidebar .nav-item .nav-link i.bi {
+  margin-right: 0.25rem;
+  width: 1.25em;
+  text-align: center;
+  display: inline-block;
+}
+
+.topbar .nav-item .nav-link i.bi {
+    margin-right: 0.25rem;
+}
