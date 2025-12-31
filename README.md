@@ -21,6 +21,12 @@ To use this template, simply open `index.html` in your browser. All dependencies
 
 ## Revision History
 
+-   **[Current Date]**: Simplified UI Layout.
+    -   Updated `sidebarToggleTop` button spacing.
+    -   Simplified Sidebar Brand text to "Admin".
+    -   Removed Topbar Search.
+    -   Removed Sidebar headings and dividers.
+    -   Removed Sidebar promo message.
 -   **[Current Date]**: Fixed Chart.js dependency issue.
     -   Installed `chart.js@2.9.4` via npm.
     -   Copied `Chart.min.js` to `vendor/chart.js/` to resolve "Chart.min.js not found" errors.
