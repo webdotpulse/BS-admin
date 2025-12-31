@@ -21,6 +21,10 @@ To use this template, simply open `index.html` in your browser. All dependencies
 
 ## Revision History
 
+-   **[Current Date]**: Fixed Chart.js dependency issue.
+    -   Installed `chart.js@2.9.4` via npm.
+    -   Copied `Chart.min.js` to `vendor/chart.js/` to resolve "Chart.min.js not found" errors.
+    -   Ensured compatibility with existing chart demo scripts.
 -   **[Current Date]**: Replaced Font Awesome with Bootstrap Icons and converted to Vanilla JavaScript.
     -   Installed Bootstrap Icons via npm and moved assets to `vendor/bootstrap-icons`.
     -   Replaced all Font Awesome classes (`fas`, `far`, `fab`, `fa-*`) with Bootstrap Icons equivalents (`bi`, `bi-*`).
