@@ -26,6 +26,9 @@ To use this template, simply open `index.html` in your browser. All dependencies
     -   Replaced all Font Awesome classes (`fas`, `far`, `fab`, `fa-*`) with Bootstrap Icons equivalents (`bi`, `bi-*`).
     -   Refactored `js/sb-admin-2.js` to remove jQuery.
     -   Removed jQuery and jQuery Easing scripts from all HTML files.
+-   **[Current Date]**: Updated Color Scheme and Enhanced Material Design.
+    -   **Colors**: Changed primary color scheme to Blue (`#1266F1`) and Purple (`#B23CFD`) with gradients to match MDBootstrap style.
+    -   **Styling**: Enhanced Material Design look with specific button shadows and updated sidebar gradient.
 -   **[Current Date]**: Modernized UI and improved consistency.
     -   **Styling**: Adopted Material Design-inspired look with stronger shadows, rounded corners, and cleaner spacing.
     -   **Typography**: Switched to "Dosis" font for a more modern feel.
