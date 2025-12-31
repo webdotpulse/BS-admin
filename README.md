@@ -38,6 +38,9 @@ To use this template, simply open `index.html` in your browser. All dependencies
     -   **Typography**: Switched to "Dosis" font for a more modern feel.
     -   **Layout**: Moved the sidebar toggle button to the top sidebar brand section for better accessibility and aesthetics.
     -   **Icons**: Finalized replacement of Font Awesome with Bootstrap Icons in CSS content values.
+-   **[Current Date]**: Updated Sidebar Toggle Visibility.
+    -   Removed `sidebarToggle` button from the sidebar in all HTML pages.
+    -   Updated `sidebarToggleTop` in the top bar to be visible on all screen sizes (removed `d-md-none`).
 -   **[Previous Date]**: Converted to Bootstrap 5.
     -   Extracted custom styles from `sb-admin-2.css`.
     -   Updated HTML attributes and classes.
