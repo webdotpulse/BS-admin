@@ -21,6 +21,10 @@ To use this template, simply open `index.html` in your browser. All dependencies
 
 ## Revision History
 
+-   **2026-01-03**: Removed Login Screens and Cleanup.
+    -   Deleted `login.html`, `register.html`, and `forgot-password.html`.
+    -   Removed "Login Screens" section from Sidebar in all pages.
+    -   Removed "Logout" link from User Dropdown and "Logout Modal" from all pages.
 -   **[Current Date]**: Simplified UI Layout.
     -   Updated `sidebarToggleTop` button spacing.
     -   Simplified Sidebar Brand text to "Admin".
